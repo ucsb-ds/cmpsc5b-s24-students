@@ -1,2 +1,2 @@
-# cmpsc5b-w24-students
-#Materials for the CMPSC 5B course at UCSB in Winter 2024
+# cmpsc5b-s24-students
+#Materials for the CMPSC 5B course at UCSB in Spring 2024
